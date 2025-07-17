@@ -32,7 +32,6 @@ This project analyzes 11,000+ car listings to uncover pricing drivers, performan
 ---
 ## 📂 Dataset
 
-- Source: Simulated automotive dataset
 - Records: ~11,914 car listings  
 - Features: Brand, engine specs, fuel type, MSRP, body style, etc.
 
@@ -43,6 +42,10 @@ This project analyzes 11,000+ car listings to uncover pricing drivers, performan
 - Expand to regional pricing trends  
 - Integrate EV-specific data for modern market relevance  
 - Add predictive pricing model using regression
+
+---
+## 🚗Projects insights andexplanation
+https://drive.google.com/file/d/1G7fpcKV2ELBBfr_720NFJ7rHtqY85sts/view?usp=sharing
 
 ---
 
